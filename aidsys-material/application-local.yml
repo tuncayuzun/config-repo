@@ -35,7 +35,7 @@ springdoc:
 
 openapi:
   app:
-    title: "Aidsys Material API"
+    title: "AidSys Material API"
     description: "This project aims to provide material operations for Aidsys project."
     version: 1.0
     contact : "Contact Support"
